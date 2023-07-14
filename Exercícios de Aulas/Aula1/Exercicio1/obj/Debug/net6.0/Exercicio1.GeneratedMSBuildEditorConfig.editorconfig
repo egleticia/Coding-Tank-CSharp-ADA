@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Exercicio1._1
-build_property.ProjectDir = C:\Projetos Studio\Coding-Tank-CSharp-ADA\Exercícios de Aulas\Aula1\Exercicio1.1\
+build_property.RootNamespace = Exercicio1
+build_property.ProjectDir = C:\Projetos Studio\Coding-Tank-CSharp-ADA\Exercícios de Aulas\Aula1\Exercicio1\
